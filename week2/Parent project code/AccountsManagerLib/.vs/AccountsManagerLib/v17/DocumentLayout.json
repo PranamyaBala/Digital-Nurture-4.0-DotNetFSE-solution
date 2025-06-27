@@ -6,7 +6,7 @@
       "AbsoluteMoniker": "D:0:0:{CEF3505C-5259-4DA3-B808-8695928709B3}|..\\AccountsManagerLib.Tests\\AccountsManagerLib.Tests.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week2\\parent project code\\accountsmanagerlib.tests\\accountsmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69F6B8E8-3E32-4E32-AC3F-D92781775C30}|AccountsManagerLib.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week2\\parent project code\\accountsmanagerlib\\accountsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69F6B8E8-3E32-4E32-AC3F-D92781775C30}|AccountsManagerLib.csproj|C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Parent project code\\AccountsManagerLib\\accountsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69F6B8E8-3E32-4E32-AC3F-D92781775C30}|AccountsManagerLib.csproj|solutionrelative:accountsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -29,8 +29,7 @@
               "RelativeToolTip": "AccountsManager.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T04:00:53.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T04:00:53.146Z"
             },
             {
               "$type": "Document",
