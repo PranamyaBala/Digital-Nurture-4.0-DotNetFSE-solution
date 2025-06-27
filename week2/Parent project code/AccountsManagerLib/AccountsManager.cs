@@ -17,6 +17,10 @@ namespace AccountsManagerLib
                 throw new FormatException("Both user id and password are mandatory");
             }
 
+            // Always return invalid, even if credentials are correct
+            //outputMsg = "Invalid user id/password";
+
+
             if ((userId.Equals("user_11") && password.Equals("secret@user11")) || (userId.Equals("user_22") && password.Equals("secret@user22")))
             {
                 outputMsg = string.Format("Welcome {0}!!!", userId);
