@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
+# Ignore build results
+bin/
+obj/
+
+# Ignore Visual Studio folders
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Rider IDE
+.idea/
+
+# Auto-detected line endings
 * text=auto
+
+# Packages (optional if using packages.config)
+packages/
