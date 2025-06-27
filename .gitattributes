@@ -1,19 +1,6 @@
-# Ignore build results
-bin/
-obj/
+# Ignore all .vs, bin, obj, packages folders recursively
+**/.vs/
+**/bin/
+**/obj/
+**/packages/
 
-# Ignore Visual Studio folders
-.vs/
-
-# User-specific files
-*.user
-*.suo
-
-# Rider IDE
-.idea/
-
-# Auto-detected line endings
-* text=auto
-
-# Packages (optional if using packages.config)
-packages/
