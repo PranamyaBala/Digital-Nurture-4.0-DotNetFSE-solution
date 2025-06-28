@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\MagicFilesSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38ED1E4B-A12E-487C-AABC-DDA764C41FB6}|MagicFiles\\MagicFilesLib.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week2\\moq\\magicfilessolution\\magicfiles\\directoryexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38ED1E4B-A12E-487C-AABC-DDA764C41FB6}|MagicFiles\\MagicFilesLib.csproj|solutionrelative:magicfiles\\directoryexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44025E17-FB59-4B2C-90C4-CC5C1E50E142}|DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj|C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\MagicFilesSolution\\directoryexplorer.tests\\directoryexplorertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44025E17-FB59-4B2C-90C4-CC5C1E50E142}|DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj|solutionrelative:directoryexplorer.tests\\directoryexplorertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44025E17-FB59-4B2C-90C4-CC5C1E50E142}|DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj|C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\MagicFilesSolution\\directoryexplorer.tests\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44025E17-FB59-4B2C-90C4-CC5C1E50E142}|DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj|solutionrelative:directoryexplorer.tests\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectoryExplorerTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\MagicFilesSolution\\DirectoryExplorer.Tests\\DirectoryExplorerTests.cs",
+              "RelativeDocumentMoniker": "DirectoryExplorer.Tests\\DirectoryExplorerTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\MagicFilesSolution\\DirectoryExplorer.Tests\\DirectoryExplorerTests.cs",
+              "RelativeToolTip": "DirectoryExplorer.Tests\\DirectoryExplorerTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:24:51.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectoryExplorer.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\MagicFilesSolution\\MagicFiles\\DirectoryExplorer.cs",
+              "RelativeDocumentMoniker": "MagicFiles\\DirectoryExplorer.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\MagicFilesSolution\\MagicFiles\\DirectoryExplorer.cs",
+              "RelativeToolTip": "MagicFiles\\DirectoryExplorer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:22:31.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Packages.config",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\MagicFilesSolution\\DirectoryExplorer.Tests\\Packages.config",
+              "RelativeDocumentMoniker": "DirectoryExplorer.Tests\\Packages.config",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\MagicFilesSolution\\DirectoryExplorer.Tests\\Packages.config",
+              "RelativeToolTip": "DirectoryExplorer.Tests\\Packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-28T04:31:34.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

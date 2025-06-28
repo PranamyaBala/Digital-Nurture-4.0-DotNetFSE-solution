@@ -1,0 +1,6 @@
+C:\Users\KIIT\Documents\Digital-Nurture-4.0-DotNetFSE-solution\Deepskill\week2\Moq\PlayersManagerSolution\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\KIIT\Documents\Digital-Nurture-4.0-DotNetFSE-solution\Deepskill\week2\Moq\PlayersManagerSolution\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\KIIT\Documents\Digital-Nurture-4.0-DotNetFSE-solution\Deepskill\week2\Moq\PlayersManagerSolution\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Documents\Digital-Nurture-4.0-DotNetFSE-solution\Deepskill\week2\Moq\PlayersManagerSolution\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Documents\Digital-Nurture-4.0-DotNetFSE-solution\Deepskill\week2\Moq\PlayersManagerSolution\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\KIIT\Documents\Digital-Nurture-4.0-DotNetFSE-solution\Deepskill\week2\Moq\PlayersManagerSolution\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\CustomerCommLibSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8943C088-13BA-4F6E-9F87-5B7B08A3AEAB}|CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week2\\moq\\customercommlibsolution\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8943C088-13BA-4F6E-9F87-5B7B08A3AEAB}|CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3015AAE-C028-44FB-8BD0-0F7848C067AA}|CustomerCommLib\\CustomerCommLib.csproj|C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\CustomerCommLibSolution\\customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3015AAE-C028-44FB-8BD0-0F7848C067AA}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\CustomerCommLibSolution\\CustomerCommLib\\MailSender.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\MailSender.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\CustomerCommLibSolution\\CustomerCommLib\\MailSender.cs",
+              "RelativeToolTip": "CustomerCommLib\\MailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:49:30.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\CustomerCommLibSolution\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week2\\Moq\\CustomerCommLibSolution\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:54:21.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
