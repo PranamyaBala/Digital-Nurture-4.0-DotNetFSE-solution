@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A2A00-4E8D-4093-B2AC-CDA59117344F}|..\\KafkaChatWinApp\\KafkaChatWinApp.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week5\\webapikafka\\kafkachatwinapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A2A00-4E8D-4093-B2AC-CDA59117344F}|..\\KafkaChatWinApp\\KafkaChatWinApp.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week5\\webapikafka\\kafkachatwinapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A2A00-4E8D-4093-B2AC-CDA59117344F}|..\\KafkaChatWinApp\\KafkaChatWinApp.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week5\\webapikafka\\kafkachatwinapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5630C3-3A32-4259-966E-F9A71A643656}|KafkaChatApp.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week5\\webapikafka\\kafkachatapp\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5630C3-3A32-4259-966E-F9A71A643656}|KafkaChatApp.csproj|solutionrelative:consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5630C3-3A32-4259-966E-F9A71A643656}|KafkaChatApp.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week5\\webapikafka\\kafkachatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5630C3-3A32-4259-966E-F9A71A643656}|KafkaChatApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5630C3-3A32-4259-966E-F9A71A643656}|KafkaChatApp.csproj|c:\\users\\kiit\\documents\\digital-nurture-4.0-dotnetfse-solution\\deepskill\\week5\\webapikafka\\kafkachatapp\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5630C3-3A32-4259-966E-F9A71A643656}|KafkaChatApp.csproj|solutionrelative:producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatWinApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\KafkaChatWinApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatWinApp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\KafkaChatWinApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:26:06.523Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatWinApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\KafkaChatWinApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatWinApp\\Form1.cs",
+              "RelativeToolTip": "..\\KafkaChatWinApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:27:52.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatWinApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\KafkaChatWinApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatWinApp\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\KafkaChatWinApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAMwHcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:27:27.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatApp\\Consumer.cs",
+              "RelativeDocumentMoniker": "Consumer.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatApp\\Consumer.cs",
+              "RelativeToolTip": "Consumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:58:14.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatApp\\Producer.cs",
+              "RelativeDocumentMoniker": "Producer.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatApp\\Producer.cs",
+              "RelativeToolTip": "Producer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:57:03.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Documents\\Digital-Nurture-4.0-DotNetFSE-solution\\Deepskill\\week5\\WebAPIKafka\\KafkaChatApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:54:10.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
